@@ -26,17 +26,6 @@ I have a strong foundation in **Node.js, Express.js, MongoDB, and REST APIs**, w
 
 ---
 
-## Experience
-
-**Back-End Developer Intern** — Totally Optimised Solutions (Remote)  
-*Jan 2025 – Mar 2025*
-
-- Developed RESTful APIs using Node.js, Express.js, and MongoDB  
-- Implemented secure authentication using JWT and role-based access  
-- Built and optimized backend features for production applications  
-- Tested APIs using Postman and collaborated with frontend teams  
-
----
 
 ## Education
 
