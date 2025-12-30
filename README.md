@@ -22,19 +22,6 @@ I have a strong foundation in **Node.js, Express.js, MongoDB, and REST APIs**, w
 
 ---
 
-
-## Education
-
-**Master of Computer Applications (MCA)**  
-Modern College of Engineering, Pune  
-*2025 – Present*
-
-**Bachelor of Computer Applications (BCA)**  
-Swami Ramanand Teerth Marathwada University, Nanded  
-*CGPA: 7.50*
-
----
-
 ## Achievements & Certifications
 
 - Odoo × SPIT Hackathon 2025 – Finalist  
