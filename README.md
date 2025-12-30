@@ -4,22 +4,22 @@
 
 📍 Pune, India  
 📧 ravikhokle1@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ravikhokle
+🔗 LinkedIn: https://www.linkedin.com/in/ravikhokle  
+💻 GitHub: https://github.com/ravikhokle  
 
 ---
 
 ## About Me
 
-MERN Stack Developer with hands-on experience in building full-stack web applications.  
-Strong foundation in **Node.js, Express.js, MongoDB, and REST APIs**.  
-Interested in backend development and real-world problem solving.
+I am a MERN Stack Developer with hands-on experience in building full-stack web applications.  
+I have a strong foundation in **Node.js, Express.js, MongoDB, and REST APIs**, with a keen interest in backend development and real-world problem solving.
 
 ---
 
 ## Skills
 
 - **Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap  
-- **Backend:** Node.js, Express.js, REST APIs, JWT  
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication  
 - **Databases:** MongoDB, MongoDB Atlas, MySQL  
 - **Languages:** JavaScript, Python, C++  
 - **Tools:** Git, GitHub, Postman, Linux  
@@ -29,23 +29,32 @@ Interested in backend development and real-world problem solving.
 ## Experience
 
 **Back-End Developer Intern** — Totally Optimised Solutions (Remote)  
-*Jan 2025 – Mar 2025*  
-- Built REST APIs using Node.js, Express.js, and MongoDB  
-- Implemented JWT authentication and role-based access  
+*Jan 2025 – Mar 2025*
+
+- Developed RESTful APIs using Node.js, Express.js, and MongoDB  
+- Implemented secure authentication using JWT and role-based access  
+- Built and optimized backend features for production applications  
 - Tested APIs using Postman and collaborated with frontend teams  
 
 ---
 
 ## Education
 
-**MCA** — Modern College of Engineering, Pune *(2025 – Present)*  
-**BCA** — SRTMU Nanded *(CGPA: 7.50)*  
+**Master of Computer Applications (MCA)**  
+Modern College of Engineering, Pune  
+*2025 – Present*
+
+**Bachelor of Computer Applications (BCA)**  
+Swami Ramanand Teerth Marathwada University, Nanded  
+*CGPA: 7.50*
 
 ---
 
-## Achievements
+## Achievements & Certifications
 
 - Odoo × SPIT Hackathon 2025 – Finalist  
 - Full Stack Web Development – Udemy  
 
-⭐ Thanks for visiting my profile!
+---
+
+⭐ Feel free to explore my repositories below.
