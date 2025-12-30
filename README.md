@@ -4,6 +4,8 @@
 
 📍 Pune, India  
 📧 ravikhokle1@gmail.com  
+🔗 LinkedIn: https://www.linkedin.com/in/ravikhokle  
+💻 GitHub: https://github.com/ravikhokle
 
 ## About Me
 
