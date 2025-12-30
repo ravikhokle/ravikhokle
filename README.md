@@ -28,7 +28,7 @@ I have a strong foundation in **Node.js, Express.js, MongoDB, and REST APIs**, w
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/ravikhokle  
 📧 Email: ravikhokle1@gmail.com  
