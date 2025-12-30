@@ -1,5 +1,10 @@
 # Hi, I'm Ravi Khokle 👋
 
+**MERN Stack Developer | FY-MCA Student**
+
+📍 Pune, India  
+📧 ravikhokle1@gmail.com  
+
 ## About Me
 
 I am a MERN Stack Developer with hands-on experience in building full-stack web applications.  
