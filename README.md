@@ -2,19 +2,16 @@
 
 **MERN Stack Developer | FY-MCA Student**
 
-📍 Pune, India  
-📧 ravikhokle1@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ravikhokle  
-💻 GitHub: https://github.com/ravikhokle
+---
 
-## About Me
+## 👨‍💻 About Me
 
 I am a MERN Stack Developer with hands-on experience in building full-stack web applications.  
-I have a strong foundation in **Node.js, Express.js, MongoDB, and REST APIs**, with a keen interest in backend development and real-world problem solving.
+I have a strong foundation in **Node.js, Express.js, MongoDB, and REST APIs**, with a growing interest in backend development and solving real-world problems through clean and scalable code.
 
 ---
 
-## Skills
+## 🛠️ Skills
 
 - **Frontend:** React.js, HTML, CSS, JavaScript, Tailwind CSS, Bootstrap  
 - **Backend:** Node.js, Express.js, REST APIs, JWT Authentication  
@@ -24,11 +21,18 @@ I have a strong foundation in **Node.js, Express.js, MongoDB, and REST APIs**, w
 
 ---
 
-## Achievements & Certifications
+## 🏆 Achievements & Certifications
 
-- Odoo × SPIT Hackathon 2025 – Finalist  
-- Full Stack Web Development – Udemy  
+- **Odoo × SPIT Hackathon 2025** – Finalist  
+- **Full Stack Web Development** – Udemy  
 
 ---
 
-⭐ Feel free to explore my repositories below.
+## 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/ravikhokle  
+📧 Email: ravikhokle1@gmail.com  
+
+---
+
+⭐ Feel free to explore my repositories and connect with me
