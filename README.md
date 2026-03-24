@@ -21,13 +21,6 @@ I have a strong foundation in **Node.js, Express.js, MongoDB, and REST APIs**, w
 
 ---
 
-## 🏆 Achievements & Certifications
-
-- **Odoo × SPIT Hackathon 2025** – Finalist  
-- **Full Stack Web Development** – Udemy  
-
----
-
 ## 🔗 Connect With Me
 
 🌐 LinkedIn: https://www.linkedin.com/in/ravikhokle  
@@ -35,4 +28,4 @@ I have a strong foundation in **Node.js, Express.js, MongoDB, and REST APIs**, w
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me
+⭐ Feel free to connect with me
