@@ -25,7 +25,7 @@ I have a strong foundation in **Node.js, Express.js, MongoDB, and REST APIs**, w
 
 💼 LinkedIn: https://www.linkedin.com/in/ravikhokle
 📧 Email: ravikhokle1@gmail.com
-🌐 Portfolio: https://ravikhokle.dev
+🌐 Portfolio: https://ravikhokle.dev/
 
 ---
 
